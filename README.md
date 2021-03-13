@@ -5,14 +5,15 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" height="300px" />
   
 ### Introduce 💻
-&nbsp;&nbsp;&nbsp;<strong>SCHOOL</strong>: CQUPT <img src='https://upload.wikimedia.org/wikipedia/zh/4/43/Cquptlogo.JPG' height='24px' align='center'/><br/>
-&nbsp;&nbsp;&nbsp;<strong>TECHNOLOGY</strong>: HTML、CSS、JS、React✨<br/> 
-&nbsp;&nbsp;&nbsp;<strong>MOTTO</strong>: Stay hungry, Stay foolish! 💪🏻
-
+&nbsp;&nbsp;<strong>SCHOOL</strong>: CQUPT <img src='https://upload.wikimedia.org/wikipedia/zh/4/43/Cquptlogo.JPG' height='24px' align='center'/><br/>
+&nbsp;&nbsp;<strong>TECHNOLOGY</strong>: HTML、CSS、JS、React✨<br/> 
+&nbsp;&nbsp;<strong>MOTTO</strong>: Stay hungry, Stay foolish! 💪🏻
+<br />
+<br />
 ### Contacts 📌
 
-&nbsp;&nbsp;&nbsp;qq: 284970670 <br/>
-&nbsp;&nbsp;&nbsp;email: 284970670@qq.com <br/>
-&nbsp;&nbsp;&nbsp;weChat: Hy_284970670
+&nbsp;&nbsp;<strong>qq</strong>: 284970670 <br/>
+&nbsp;&nbsp;<strong>email</strong>: 284970670@qq.com <br/>
+&nbsp;&nbsp;<strong>weChat</strong>: Hy_284970670
 </samp>
 
