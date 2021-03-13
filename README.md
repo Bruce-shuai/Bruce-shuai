@@ -4,12 +4,12 @@
 <br/>  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" height="300px" />
   
-### &nbsp;Introduce 💻
+### Introduce 💻
 &nbsp;&nbsp;&nbsp;<strong>SCHOOL</strong>: CQUPT <img src='https://upload.wikimedia.org/wikipedia/zh/4/43/Cquptlogo.JPG' height='24px' align='center'/><br/>
 &nbsp;&nbsp;&nbsp;<strong>TECHNOLOGY</strong>: HTML、CSS、JS、React✨<br/> 
 &nbsp;&nbsp;&nbsp;<strong>MOTTO</strong>: Stay hungry, Stay foolish! 💪🏻
 
-### &nbsp;Contacts 📌
+### Contacts 📌
 
 &nbsp;&nbsp;&nbsp;qq: 284970670 <br/>
 &nbsp;&nbsp;&nbsp;email: 284970670@qq.com <br/>
