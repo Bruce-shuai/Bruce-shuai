@@ -11,7 +11,8 @@
 <br />
 <br />
 ### Contacts 📌
-
+&nbsp;&nbsp;<strong>个人博客</strong>: https://heyyy.site/<br/>
+&nbsp;&nbsp;<strong>掘金</strong>: https://juejin.cn/user/862446490487725<br/>
 &nbsp;&nbsp;<strong>qq</strong>: 284970670 <br/>
 &nbsp;&nbsp;<strong>email</strong>: 284970670@qq.com <br/>
 &nbsp;&nbsp;<strong>weChat</strong>: Hy_284970670
