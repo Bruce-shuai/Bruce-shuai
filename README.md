@@ -6,7 +6,7 @@
   
 ### Introduce 💻
 &nbsp;&nbsp;<strong>SCHOOL</strong>: CQUPT <img src='https://upload.wikimedia.org/wikipedia/zh/4/43/Cquptlogo.JPG' height='24px' align='center'/><br/>
-&nbsp;&nbsp;<strong>TECHNOLOGY</strong>: HTML、CSS、JS、TS、React、Node.js、Test✨<br/> 
+&nbsp;&nbsp;<strong>TECHNOLOGY</strong>: HTML、CSS、JS、TS、React、Node.js、Jest✨<br/> 
 &nbsp;&nbsp;<strong>MOTTO</strong>: Stay hungry, Stay foolish! 💪🏻
 <br />
 <br />
