@@ -6,7 +6,7 @@
   
 ### Introduce 💻
 &nbsp;&nbsp;<strong>SCHOOL</strong>: CQUPT <img src='https://upload.wikimedia.org/wikipedia/zh/4/43/Cquptlogo.JPG' height='24px' align='center'/><br/>
-&nbsp;&nbsp;<strong>TECHNOLOGY</strong>: React、React Native、Vue、Flutter、TypeScript✨<br/> 
+&nbsp;&nbsp;<strong>TECHNOLOGY</strong>: React、React Native、Vue、Flutter、TypeScript、Nest.js✨<br/> 
 &nbsp;&nbsp;<strong>MOTTO</strong>: Stay hungry, Stay foolish! 💪🏻
 <br />
 <br />
